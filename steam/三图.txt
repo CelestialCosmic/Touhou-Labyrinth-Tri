@@ -1,0 +1,35 @@
+[h1] 第一层 [/h1]
+[h2] 隐藏宝箱（左上） [/h2]
+[previewimg=44502954;sizeOriginal,floatLeft;20260207011708.jpg][/previewimg]
+[h2] 隐藏宝箱（右上）[/h2]
+两个入口都可以
+[previewimg=44502957;sizeOriginal,floatLeft;20260207011949.jpg][/previewimg]
+[h1] 第二层 [/h1]
+[h2] 隐藏箱子（左侧中间） [/h2]
+[previewimg=44502963;sizeOriginal,floatLeft;20260207211410.jpg][/previewimg]
+
+没错，直到这里我才知道休息物品怎么配（
+在此之前我已经合了大量食材却不知道怎么用
+这里打魔理沙，因为前面把人全吃完了，所以队伍发生了很大变化
+[previewimg=44502968;sizeOriginal,floatLeft;20260208000928.jpg][/previewimg]
+第 15 回合（对，如果练度太高第一轮是没有魔力下降的）有状态异常（沉默、麻痹之类的）时会有魔力 debuff
+扛的人经过很多次测试美玲都没通过，后面参考[url=https://tieba.baidu.com/p/10448685447#]【图片】东方的迷宫3讨论帖\_东方吧\_百度贴吧[/url] 的帖子用恋恋扛伤成功通关，下图是叠完 buff 的恋恋
+[previewimg=44502981;sizeOriginal,floatLeft;20260208035524.jpg][/previewimg]
+[previewimg=44502983;sizeOriginal,floatLeft;20260208035607.jpg][/previewimg]
+可以看到炸完就掉了 120（如果前七回合强杀大概在 1200-1800 左右浮动，最低的一次是1183，那次给我气笑了）
+[h2] 技能分配 [/h2]
+[previewimg=44502998;sizeOriginal,floatLeft;20260208040154.jpg][/previewimg]
+[previewimg=44503002;sizeOriginal,floatLeft;20260208040208.jpg][/previewimg]
+[h2] 装备分配 [/h2]
+[previewimg=44502994;sizeOriginal,floatLeft;20260208040127.jpg][/previewimg]
+[previewimg=44502991;sizeOriginal,floatLeft;20260208040112.jpg][/previewimg]
+[h2] 属性分配 [/h2]
+[previewimg=44503004;sizeOriginal,floatLeft;20260208040414.jpg][/previewimg]
+[h2] 砸钱 [/h2]
+[previewimg=44503008;sizeOriginal,floatLeft;20260208043151.jpg][/previewimg]
+[previewimg=44503006;sizeOriginal,floatLeft;20260208043133.jpg][/previewimg]
+[h1] 第三层 [/h1]
+打灵梦只需要用哆来咪的技能，朴实无华的放就行了，因为灵梦没有什么爆发性输出，比魔理沙温柔了太多，和第二层原班人马，没有任何加强（魔理沙、露米娅和橙入队不算，装备都没上），打完妖梦入队，结束
+
+[h2] 隐藏宝箱（中间） [/h2]
+[previewimg=44503012;sizeOriginal,floatLeft;20260208221443.jpg][/previewimg]

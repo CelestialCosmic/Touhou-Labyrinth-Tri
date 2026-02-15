@@ -1,0 +1,32 @@
+[h1] 第一层[/h1]
+[h2] Boss[/h2]
+帕秋莉一个技能炸完，没啥好说的
+[h1] 第二层[/h1]
+[h2] 隐藏宝箱（左下）[/h2]
+[previewimg=44581620;sizeOriginal,floatLeft;20260214004532.jpg][/previewimg]
+先调一次箱顶到上面，然后绕一圈再调下面的箱
+[h2] Boss[/h2]
+圣白莲是输出检测，杀慢了就会回血回到不认识，要速杀
+开局直接上琪露诺、文、帕秋莉和哆来咪，琪露诺引反击自爆降敏捷，文一直给哆来咪发 10000，帕秋莉拿木系符文炸
+反击换美铃和灵梦回血
+[h3] 技能分配[/h3]
+[previewimg=44581626;sizeOriginal,floatLeft;20260215011000.jpg][/previewimg]
+[previewimg=44581624;sizeOriginal,floatLeft;20260215010951.jpg][/previewimg]
+[h3] 装备分配[/h3]
+[previewimg=44581621;sizeOriginal,floatLeft;20260215010908.jpg][/previewimg]
+[previewimg=44581623;sizeOriginal,floatLeft;20260215010938.jpg][/previewimg]
+[h3] 属性分配[/h3]
+[previewimg=44581627;sizeOriginal,floatLeft;20260215011456.jpg][/previewimg]
+[h3] 砸钱[/h3]
+[previewimg=44581632;sizeOriginal,floatLeft;20260215011520.jpg][/previewimg]
+[previewimg=44581633;sizeOriginal,floatLeft;20260215011528.jpg][/previewimg]
+[h1] 第三层[/h1]
+[h2] Boss[/h2]
+如何到达 Boss 场地？
+从下图位置绕一圈才行
+[previewimg=44581634;sizeOriginal,floatLeft;20260215013608.jpg][/previewimg]
+紫会分别进入四次伤害免疫、八次 debuff 免疫、再四次伤害免疫状态，僚机平 A 破就行
+血量为 0 后，变成分身状态，两人伤害要一碗水端平，否则就从头再来
+装备与第二层相同，不再赘述
+[h2] 一些需要注意的点[/h2]
+打完以后会解锁噩梦难度等很多内容，该刷装备等级就刷了

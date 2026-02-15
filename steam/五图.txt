@@ -1,0 +1,64 @@
+[h1] 第一层[/h1]
+[h2] 隐藏宝箱（左）[/h2]
+调箱，塞住左边两个坑和右边的港口，然后往上走
+[previewimg=44503016;sizeOriginal,floatLeft;20260209001500.jpg][/previewimg]
+[h2] 隐藏宝箱（左上）[/h2]
+[previewimg=44583021;sizeOriginal,floatLeft;20260210222049.jpg][/previewimg]
+调箱堵住上方的口，再坐另一个过来就行
+[h2] 隐藏宝箱（中）[/h2]
+拿完左边的箱子坐出口的箱子，转圈左脚踩右脚挪到入口
+[previewimg=44503017;sizeOriginal,floatLeft;20260209001739.jpg][/previewimg]
+[h2] 隐藏宝箱（右中）[/h2]
+[previewimg=44583039;sizeOriginal,floatLeft;20260210222412.jpg][/previewimg]
+先从左上调一个箱过来，然后绕一大圈从另一个位置下来
+[h1] 第二层[/h1]
+[h2] Boss[/h2]
+华扇会利用自身属性召唤随从，此时帕秋莉又坐回了她的宝座
+帕秋莉的水火符和金水符非常适合一下秒两
+哆来咪的月符非常适合对本体打输出，但要注意她自身 buff ，虽然输出是有限制的，但回血没有啊，没集中都一口两万多呢……另外注意两个随从的减伤 buff，用哆来咪技能消掉
+[previewimg=44583047;sizeOriginal,floatLeft;20260210210420.jpg][/previewimg]
+多次召唤后，可以看到她的状态已经有些差了
+不过，一旦给她抓到机会，那就是团灭的开始
+装备也是相同的，略过了
+[h2] 隐藏箱子（左上）[/h2]
+[previewimg=44583063;sizeOriginal,floatLeft;20260210212119.jpg][/previewimg]
+提前将另一侧的箱子调过来，然后就按图上顺序移动就可以了
+[h2] 隐藏宝箱（左下）[/h2]
+[previewimg=44583095;sizeOriginal,floatLeft;20260215135128.jpg][/previewimg]
+[h2]隐藏宝箱（右）[/h2]
+其一
+[previewimg=44583406;sizeOriginal,floatLeft;20260215142656.jpg][/previewimg]
+调箱，运到右边，并且要封住右上边的口
+[h2]隐藏宝箱（右）[/h2]
+其二
+[previewimg=44583407;sizeOriginal,floatLeft;20260215143428.jpg][/previewimg]
+将四个箱调到对面
+[previewimg=44583408;sizeOriginal,floatLeft;20260215143710.jpg][/previewimg]
+再调，然后出门
+[h1] 第三层[/h1]
+[h2] Boss[/h2]
+勇仪的机制是姿态，左拳高伤害，右拳伤害高，吼一声灭队 AOE，只有高闪避才能活
+刚之鬼形态打输出，柔之鬼形态集中回蓝和挂 buff，不要打任何输出（虽然说是3%，但随便敲一下都可能出事）
+这里给一个技巧能够快速在刚形态干掉星熊：文有一个直接拐人进回合的技能，在刚形态伤害打差不多的时候直接放这个技能，能多打一到两套输出
+把血打空后，会有几次锁 1 血，继续输出就行了，把次数打空还有人站着就是胜利
+[previewimg=44581550;sizeOriginal,floatLeft;20260211203455.jpg][/previewimg]
+[h3] 技能分配[/h3]
+[previewimg=44581551;sizeOriginal,floatLeft;20260211204353.jpg][/previewimg]
+[previewimg=44581553;sizeOriginal,floatLeft;20260211204408.jpg][/previewimg]
+[previewimg=44581555;sizeOriginal,floatLeft;20260211204515.jpg][/previewimg]
+[h3] 装备分配[/h3]
+[previewimg=44581556;sizeOriginal,floatLeft;20260211204709.jpg][/previewimg]
+[previewimg=44581558;sizeOriginal,floatLeft;20260211204721.jpg][/previewimg]
+[previewimg=44581560;sizeOriginal,floatLeft;20260211204740.jpg][/previewimg]
+[h3] 属性分配[/h3]
+[previewimg=44581568;sizeOriginal,floatLeft;20260211204836.jpg][/previewimg]
+[h3] 砸钱[/h3]
+[previewimg=44581570;sizeOriginal,floatLeft;20260211204858.jpg][/previewimg]
+[previewimg=44581571;sizeOriginal,floatLeft;20260211204909.jpg][/previewimg]
+[previewimg=44581573;sizeOriginal,floatLeft;20260211204926.jpg][/previewimg]
+[h2] 隐藏宝箱（中间）[/h2]
+[previewimg=44581575;sizeOriginal,floatLeft;20260211212158.jpg][/previewimg]
+也是调箱
+[previewimg=44581576;sizeOriginal,floatLeft;20260211212448.jpg][/previewimg]
+箱堆好了按下左上右的顺序移动
+[previewimg=44581577;sizeOriginal,floatLeft;20260211212539.jpg][/previewimg]

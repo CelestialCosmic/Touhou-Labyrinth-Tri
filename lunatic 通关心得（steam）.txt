@@ -1,0 +1,166 @@
+ 写在前面 
+本指南为本人全程lunatic难度通关过程的记录，以我个人的视角记录我通关过程中使用的技能、配装，若有谬误恳请斧正。
+采用 CC BY‑NC‑SA 4.0 协议授权。允许转载与修改，但须署名原作者，禁止商业使用，并以相同方式共享。
+指南中使用图片皆为压缩后的图片，原图请移步 [url=https://github.com/CelestialCosmic/Touhou-Labyrinth-Tri]github[/url]
+ 一图 
+[h1] 第一层 [/h1]
+[h2] 隐藏宝箱（左下）[/h2]
+[previewimg=44502900;sizeOriginal,floatLeft;20260205225419.jpg][/previewimg]
+[h2] 隐藏宝箱（右下）[/h2]
+[previewimg=44502903;sizeOriginal,floatLeft;20260205225636.jpg][/previewimg]
+[h1] 第二层 [/h1]
+这个 BOSS 只有帕秋莉能爆伤害
+红美铃当 T，平 A 召唤物和给帕秋莉回血，梅莉莲子挂 buff，找时机换河童、琪露诺用 AOE 清杂，技能砸完就过了，后期可能会遇到召唤物过多定点爆破的情况，注意行动顺序
+[h2] 技能分配 [/h2]
+[previewimg=44502876;sizeOriginal,floatLeft;20260205211722.jpg][/previewimg]
+[h2] 装备分配 [/h2]
+[previewimg=44502881;sizeOriginal,floatLeft;20260205211829.jpg][/previewimg]
+[h2] 隐藏宝箱（左下） [/h2]
+[previewimg=44502897;sizeOriginal,floatLeft;20260205224505.jpg][/previewimg]
+[h2] 隐藏宝箱（右下） [/h2]
+[previewimg=44502883;sizeOriginal,floatLeft;20260205224255.jpg][/previewimg]
+[h1] 第三层 [/h1]
+[h2]隐藏宝箱（右上）[/h2]
+[previewimg=44502882;sizeOriginal,floatLeft;20260205223758.jpg][/previewimg]
+先回家解锁慧音再出发，然后打蓝
+[h1] 第三层 [/h1]
+这个 BOSS 也是只有帕秋莉能爆伤害（一阶段一发 2000+，二阶段一发 5000+）
+[h2] 技能分配 [/h2]
+[previewimg=44502909;sizeOriginal,floatLeft;20260206214850.jpg][/previewimg]
+[h2] 装备分配 [/h2]
+[previewimg=44502911;sizeOriginal,floatLeft;20260206214915.jpg][/previewimg]
+[h2] 属性分配 [/h2]
+[previewimg=44502913;sizeOriginal,floatLeft;20260206214947.jpg][/previewimg]
+[h2] 砸钱 [/h2]
+[previewimg=44502915;sizeOriginal,floatLeft;20260206215158.jpg][/previewimg]
+
+进战后灵梦、文、梅莉、莲子一起给帕秋莉挂 buff，只要帕秋莉不死（也就是帕秋莉死了就可以重开了），就能一直一发爆掉小怪，不要舍不得蓝
+
+二阶段有 40 级的支援，一个技能 2000 左右，帕秋莉死了也能打，没死爆一发 5000+ 伤害，两发最多三发也带走了
+回去谈话室过剧情
+ 二图 
+[h1] 第一层 [/h1]
+该层 BOSS 很简单：文挂 buff 其他人平 A 就能过
+配队用的灵梦、美铃、文、梅莉（真正的按 V 键都能过）
+[h2] 装备分配 [/h2]
+[previewimg=44502916;sizeOriginal,floatLeft;20260206222418.jpg][/previewimg]
+
+没了，这层就这么朴实无华，连隐藏箱都没有
+
+[h1] 第二层 [/h1]
+老样子，帕秋莉爆伤害，不过有机制，可以展开讲讲
+第一下是一个高伤害，全肉装美铃硬吃，然后换人
+后面会给 1、2、3、4 号位依次挂 debuff，及时换人，尤其是帕秋莉不能被挂 debuff
+如果场上没有人有 boss 挂的 debuff，就没有伤害，所以派一个 T 去吃掉所有的 debuff，然后下场
+T8 前换位帕秋莉，挂完 debuff 在新位置接着炸就行
+
+但是！到了二阶段，所有人都被挂 debuff 的时候，所以帕秋莉是一定会死的，这时就要请出预备役了：爱丽丝
+爱丽丝有着非常高的闪避，这里三件装备+技能+基础值叠到了 86，专门强化闪避的饰品因为被强化掉了所以没有库存
+二阶段帕秋莉终将挂掉，只有爱丽丝和灵梦的技能一边闪避一边造成伤害（能打大概最后 5% 左右）
+
+[h2] 技能分配 [/h2]
+[previewimg=44502924;sizeOriginal,floatLeft;20260206225647.jpg][/previewimg]
+[previewimg=44502942;sizeOriginal,floatLeft;20260207001047.jpg][/previewimg]
+
+[h2] 装备分配 [/h2]
+[previewimg=44502936;sizeOriginal,floatLeft;20260206231126.jpg][/previewimg]
+[previewimg=44502942;sizeOriginal,floatLeft;20260206233326.jpg][/previewimg]
+[h2] 砸钱 [/h2]
+[previewimg=44502934;sizeOriginal,floatLeft;20260206230901.jpg][/previewimg]
+
+[h2] 隐藏宝箱（右上） [/h2]
+[previewimg=44502919;sizeOriginal,floatLeft;20260206222745.jpg][/previewimg]
+在这里转弯
+[previewimg=44502921;sizeOriginal,floatLeft;20260206222927.jpg][/previewimg]
+
+[h2] 隐藏宝箱（右下） [/h2]
+[previewimg=44502922;sizeOriginal,floatLeft;20260206224059.jpg][/previewimg]
+[previewimg=44502923;sizeOriginal,floatLeft;20260206224226.jpg][/previewimg]
+ 关于解锁人的顺序 
+剧情把人都吃了要重新解锁，并会带来新功能
+关于解锁顺序，**个人建议**爱丽丝 -> 河童 -> 慧音 -> 材料探索队（露米娅那帮人）
+记得留魔法装备！刷不出来至少少几个小时的装备复制时间且不能升级装备
+ 三图 
+[h1] 第一层 [/h1]
+[h2] 隐藏宝箱（左上） [/h2]
+[previewimg=44502954;sizeOriginal,floatLeft;20260207011708.jpg][/previewimg]
+[h2] 隐藏宝箱（右上）[/h2]
+两个入口都可以
+[previewimg=44502957;sizeOriginal,floatLeft;20260207011949.jpg][/previewimg]
+[h1] 第二层 [/h1]
+[h2] 隐藏箱子（左侧中间） [/h2]
+[previewimg=44502963;sizeOriginal,floatLeft;20260207211410.jpg][/previewimg]
+
+没错，直到这里我才知道休息物品怎么配（
+在此之前我已经合了大量食材却不知道怎么用
+这里打魔理沙，因为前面把人全吃完了，所以队伍发生了很大变化
+[previewimg=44502968;sizeOriginal,floatLeft;20260208000928.jpg][/previewimg]
+第 15 回合（对，如果练度太高第一轮是没有魔力下降的）有状态异常（沉默、麻痹之类的）时会有魔力 debuff
+扛的人经过很多次测试美玲都没通过，后面参考[url=https://tieba.baidu.com/p/10448685447#]【图片】东方的迷宫3讨论帖\_东方吧\_百度贴吧[/url] 的帖子用恋恋扛伤成功通关，下图是叠完 buff 的恋恋
+[previewimg=44502981;sizeOriginal,floatLeft;20260208035524.jpg][/previewimg]
+[previewimg=44502983;sizeOriginal,floatLeft;20260208035607.jpg][/previewimg]
+可以看到炸完就掉了 120（如果前七回合强杀大概在 1200-1800 左右浮动，最低的一次是1183，那次给我气笑了）
+[h2] 技能分配 [/h2]
+[previewimg=44502998;sizeOriginal,floatLeft;20260208040154.jpg][/previewimg]
+[previewimg=44503002;sizeOriginal,floatLeft;20260208040208.jpg][/previewimg]
+[h2] 装备分配 [/h2]
+[previewimg=44502994;sizeOriginal,floatLeft;20260208040127.jpg][/previewimg]
+[previewimg=44502991;sizeOriginal,floatLeft;20260208040112.jpg][/previewimg]
+[h2] 属性分配 [/h2]
+[previewimg=44503004;sizeOriginal,floatLeft;20260208040414.jpg][/previewimg]
+[h2] 砸钱 [/h2]
+[previewimg=44503008;sizeOriginal,floatLeft;20260208043151.jpg][/previewimg]
+[previewimg=44503006;sizeOriginal,floatLeft;20260208043133.jpg][/previewimg]
+[h1] 第三层 [/h1]
+打灵梦只需要用哆来咪的技能，朴实无华的放就行了，因为灵梦没有什么爆发性输出，比魔理沙温柔了太多，和第二层原班人马，没有任何加强（魔理沙、露米娅和橙入队不算，装备都没上），打完妖梦入队，结束
+
+[h2] 隐藏宝箱（中间） [/h2]
+[previewimg=44503012;sizeOriginal,floatLeft;20260208221443.jpg][/previewimg]
+ 关于后三张图的说明 
+后三张图因可同时开始探索，故依据在菜单的顺序视作四、五、六图
+ 四图 
+[h1] 第一层 [/h1]
+[h2] 隐藏宝箱（左上）[/h2]
+暂未发现解法
+[h1] 第二层 [/h1]
+打小伞要注意限伤，别猛猛灌伤害导致没蓝，她还会用自身属性换取伤害下降和自身伤害上升，用哆来咪就可以解掉
+[h2] 技能分配 [/h2]
+[previewimg=44503032;sizeOriginal,floatLeft;20260209221228.jpg][/previewimg]
+[previewimg=44503034;sizeOriginal,floatLeft;20260209221248.jpg][/previewimg]
+[h2] 装备分配 [/h2]
+[previewimg=44503022;sizeOriginal,floatLeft;20260209221108.jpg][/previewimg]
+[previewimg=44503030;sizeOriginal,floatLeft;20260209221122.jpg][/previewimg]
+[h2] 属性分配 [/h2]
+[previewimg=44503036;sizeOriginal,floatLeft;20260209224949.jpg][/previewimg]
+[h2] 砸钱 [/h2]
+[previewimg=44503050;sizeOriginal,floatLeft;20260209225018.jpg][/previewimg]
+[previewimg=44503047;sizeOriginal,floatLeft;20260209225007.jpg][/previewimg]
+[h1] 第三层 [/h1]
+我认为这张图是一个刷食材的好地方，因为没有什么机制，地图就是朴实无华地大，刮一圈就能吃完 80% 以上的食材
+然后这层打铃仙
+铃仙第一回合会打一个 AOE，初始队伍不要上哆来咪和帕秋莉，⑨可以首当其冲
+打铃仙帕秋莉伤害爆得没哆来咪高，哆来咪是能打满伤害上限的，还有物理队（妖梦、阿燐召的魂等）也可以平 A 出 1000+ 的伤害，不过有内讧之类的事情发生
+[h2] 技能分配 [/h2]
+这里提到⑨是因为她的两次自爆的伤害和 debuff 也是有效输出
+[previewimg=44503052;sizeOriginal,floatLeft;20260209234846.jpg][/previewimg]
+[previewimg=44503054;sizeOriginal,floatLeft;20260209234947.jpg][/previewimg]
+[previewimg=44503062;sizeOriginal,floatLeft;20260209235031.jpg][/previewimg]
+[previewimg=44503065;sizeOriginal,floatLeft;20260209235042.jpg][/previewimg]
+[previewimg=44503058;sizeOriginal,floatLeft;20260209235007.jpg][/previewimg]
+[previewimg=44503059;sizeOriginal,floatLeft;20260209235020.jpg][/previewimg]
+[h2] 装备分配 [/h2]
+[previewimg=44503075;sizeOriginal,floatLeft;20260209235325.jpg][/previewimg]
+[previewimg=44503067;sizeOriginal,floatLeft;20260209235115.jpg][/previewimg]
+[previewimg=44503070;sizeOriginal,floatLeft;20260209235314.jpg][/previewimg]
+[h2] 属性分配 [/h2]
+和之前一致，略过
+[h2] 砸钱 [/h2]
+和之前一致，略过
+ 五图 
+[h1] 第一层 [/h1]
+[h2] 隐藏宝箱（左） [/h2]
+调箱，塞住左边两个坑和右边的港口，然后往上走
+[previewimg=44503016;sizeOriginal,floatLeft;20260209001500.jpg][/previewimg]
+[h2] 隐藏宝箱（中） [/h2]
+拿完左边的箱子坐出口的箱子，转圈左脚踩右脚挪到入口
+[previewimg=44503017;sizeOriginal,floatLeft;20260209001739.jpg][/previewimg]

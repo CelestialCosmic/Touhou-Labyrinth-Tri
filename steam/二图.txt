@@ -1,0 +1,41 @@
+[h1] 第一层 [/h1]
+该层 BOSS 很简单：文挂 buff 其他人平 A 就能过
+配队用的灵梦、美铃、文、梅莉（真正的按 V 键都能过）
+[h2] 装备分配 [/h2]
+[previewimg=44502916;sizeOriginal,floatLeft;20260206222418.jpg][/previewimg]
+
+没了，这层就这么朴实无华，连隐藏箱都没有
+
+[h1] 第二层 [/h1]
+老样子，帕秋莉爆伤害，不过有机制，可以展开讲讲
+第一下是一个高伤害，全肉装美铃硬吃，然后换人
+后面会给 1、2、3、4 号位依次挂 debuff，及时换人，尤其是帕秋莉不能被挂 debuff
+如果场上没有人有 boss 挂的 debuff，就没有伤害，所以派一个 T 去吃掉所有的 debuff，然后下场
+T8 前换位帕秋莉，挂完 debuff 在新位置接着炸就行
+
+但是！到了二阶段，所有人都被挂 debuff 的时候，所以帕秋莉是一定会死的，这时就要请出预备役了：爱丽丝
+爱丽丝有着非常高的闪避，这里三件装备+技能+基础值叠到了 86，专门强化闪避的饰品因为被强化掉了所以没有库存
+二阶段帕秋莉终将挂掉，只有爱丽丝和灵梦的技能一边闪避一边造成伤害（能打大概最后 5% 左右）
+
+[h2] 技能分配 [/h2]
+[previewimg=44502924;sizeOriginal,floatLeft;20260206225647.jpg][/previewimg]
+[previewimg=44502947;sizeOriginal,floatLeft;20260207001047.jpg][/previewimg]
+
+[h2] 装备分配 [/h2]
+[previewimg=44502936;sizeOriginal,floatLeft;20260206231126.jpg][/previewimg]
+[previewimg=44502942;sizeOriginal,floatLeft;20260206233326.jpg][/previewimg]
+[h2] 砸钱 [/h2]
+[previewimg=44502934;sizeOriginal,floatLeft;20260206230901.jpg][/previewimg]
+
+[h2] 隐藏宝箱（右上） [/h2]
+[previewimg=44502919;sizeOriginal,floatLeft;20260206222745.jpg][/previewimg]
+在这里转弯
+[previewimg=44502921;sizeOriginal,floatLeft;20260206222927.jpg][/previewimg]
+
+[h2] 隐藏宝箱（右下） [/h2]
+[previewimg=44502922;sizeOriginal,floatLeft;20260206224059.jpg][/previewimg]
+[previewimg=44502923;sizeOriginal,floatLeft;20260206224226.jpg][/previewimg]
+ 关于解锁人的顺序 
+剧情把人都吃了要重新解锁，并会带来新功能
+关于解锁顺序，**个人建议**爱丽丝 -> 河童 -> 慧音 -> 材料探索队（露米娅那帮人）
+记得留魔法装备！刷不出来至少少几个小时的装备复制时间且不能升级装备

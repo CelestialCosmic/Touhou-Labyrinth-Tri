@@ -1,0 +1,40 @@
+[h1] 第一层 [/h1]
+[h2] 隐藏宝箱（左上）[/h2]
+照图片推三个箱子到位
+[previewimg=44582804;sizeOriginal,floatLeft;20260215132658.jpg][/previewimg]
+[h1] 第二层 [/h1]
+打小伞要注意限伤，别猛猛灌伤害导致没蓝，她还会用自身属性换取伤害下降和自身伤害上升，用哆来咪就可以解掉
+[h2] 技能分配 [/h2]
+[previewimg=44503032;sizeOriginal,floatLeft;20260209221228.jpg][/previewimg]
+[previewimg=44503034;sizeOriginal,floatLeft;20260209221248.jpg][/previewimg]
+[h2] 装备分配 [/h2]
+[previewimg=44503022;sizeOriginal,floatLeft;20260209221108.jpg][/previewimg]
+[previewimg=44503030;sizeOriginal,floatLeft;20260209221122.jpg][/previewimg]
+[h2] 属性分配 [/h2]
+[previewimg=44503036;sizeOriginal,floatLeft;20260209224949.jpg][/previewimg]
+[h2] 砸钱 [/h2]
+[previewimg=44503050;sizeOriginal,floatLeft;20260209225018.jpg][/previewimg]
+[previewimg=44503047;sizeOriginal,floatLeft;20260209225007.jpg][/previewimg]
+[h1] 第三层 [/h1]
+[strike]我认为这张图是一个刷食材的好地方，因为没有什么机制，地图就是朴实无华地大，刮一圈就能吃完 80% 以上的食材[/strike]
+edit：改了，要推一大堆箱子了
+[h2]Boss[/h2]
+然后这层打铃仙
+铃仙第一回合会打一个 AOE，初始队伍不要上哆来咪和帕秋莉，⑨可以首当其冲
+打铃仙帕秋莉伤害爆得没哆来咪高，哆来咪是能打满伤害上限的，还有物理队（妖梦、阿燐召的魂等）也可以平 A 出 1000+ 的伤害，不过有内讧之类的事情发生
+[h3] 技能分配 [/h3]
+这里提到⑨是因为她的两次自爆的伤害和 debuff 也是有效输出
+[previewimg=44503052;sizeOriginal,floatLeft;20260209234846.jpg][/previewimg]
+[previewimg=44503054;sizeOriginal,floatLeft;20260209234947.jpg][/previewimg]
+[previewimg=44503062;sizeOriginal,floatLeft;20260209235031.jpg][/previewimg]
+[previewimg=44503065;sizeOriginal,floatLeft;20260209235042.jpg][/previewimg]
+[previewimg=44503058;sizeOriginal,floatLeft;20260209235007.jpg][/previewimg]
+[previewimg=44503059;sizeOriginal,floatLeft;20260209235020.jpg][/previewimg]
+[h3] 装备分配 [/h3]
+[previewimg=44503075;sizeOriginal,floatLeft;20260209235325.jpg][/previewimg]
+[previewimg=44503067;sizeOriginal,floatLeft;20260209235115.jpg][/previewimg]
+[previewimg=44503070;sizeOriginal,floatLeft;20260209235314.jpg][/previewimg]
+[h3] 属性分配 [/h3]
+和之前一致，略过
+[h3] 砸钱 [/h3]
+和之前一致，略过

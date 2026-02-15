@@ -24,7 +24,15 @@ def batch_compress_jpeg(input_folder, output_folder, quality=60):
             # 输出文件统一为 .jpg
             output_filename = os.path.splitext(filename)[0] + ".jpg"
             output_path = os.path.join(output_folder, output_filename)
+            
+            # 如果目标文件已存在则跳过
+            if os.path.exists(output_path):
+                print(f"跳过已存在文件: {output_path}")
+                continue
+            
             compress_image_jpeg(input_path, output_path, quality)
 
 # 示例调用
-batch_compress_jpeg("E:\Touhou-Labyrinth-Tri\images", "E:\Touhou-Labyrinth-Tri\compressed",quality=60)
+batch_compress_jpeg("E:\\themeblog\\Touhou-Labyrinth-Tri\\images", 
+                    "E:\\themeblog\\Touhou-Labyrinth-Tri\\compressed",
+                    quality=60)
