@@ -1,4 +1,6 @@
 [h1] 第一层[/h1]
+[h2] 隐藏宝箱（左上） [/h2]
+[previewimg=44641243;sizeOriginal,floatLeft;20260216020307.jpg][/previewimg]
 [h2] Boss[/h2]
 帕秋莉一个技能炸完，没啥好说的
 [h1] 第二层[/h1]

@@ -1,0 +1,69 @@
+[h1] 第一层 [/h1]
+[h2] 隐藏宝箱（左）[/h2]
+[previewimg=44641708;sizeOriginal,floatLeft;20260216220906.jpg][/previewimg]
+[h2] Boss[/h2]
+如何到达对面？给一些建议：
+第一个，观察地图，如果一个有视野的门但它的方向出去没有对应的门，那要么是单向门要么没探索过
+第二个，地图设计非常喜欢绕圈，如果小圈绕不对，试试绕大圈
+[previewimg=44641574;sizeOriginal,floatLeft;20260216223813.jpg][/previewimg]
+每波都有一个 11000 的输出窗口，要在这时间内打出巨量伤害
+琪露诺前几个回合先炸，到了输出窗口时，哆来咪、帕秋莉用初动高的技能输出，文只要放了幻想风靡也可以输出的
+后面是几轮高伤害，高闪避可以规避，纯肉的基本活不了
+我这里打了三轮，只剩下两个人还站着，队里还有一个没上线的阿燐
+[previewimg=44641466;sizeOriginal,floatLeft;20260216213100.jpg][/previewimg]
+[h1] 第二层[/h1]
+[h2] 隐藏宝箱（上、下）[/h2]
+[previewimg=44641576;sizeOriginal,floatLeft;20260216220325.jpg][/previewimg]
+都是跑大老远调箱，Boss 场地也是
+[previewimg=44641577;sizeOriginal,floatLeft;20260216221734.jpg][/previewimg]
+[h2] 隐藏宝箱（右上）[/h2]
+两个在小地图上都有体现
+[previewimg=44641582;sizeOriginal,floatLeft;20260216221246.jpg][/previewimg]
+[h2] Boss[/h2]
+死抗大考，但是赫卡提亚不用考
+前两回合 Boss 会挂 buff 并吸走所有的蓝，动作要快，让哆来咪技能打出动摇后，文再把回合给哆来咪，一下超特急打进无敌
+赫卡提亚前排的情况下，四波操作伤害之和为 0
+然后突击狼烟+幻想风靡全员冲锋
+[previewimg=44641587;sizeOriginal,floatLeft;20260218131726.jpg][/previewimg]
+装备没有什么变化，就是把配队从紫换成赫卡提亚，没了，赫卡提亚随便挑几件肉装紫装上就行了
+[h1] 第三层[/h1]
+[h2] 隐藏宝箱（右）[/h2]
+[previewimg=44641620;sizeOriginal,floatLeft;20260218140647.jpg][/previewimg]
+[h2] 隐藏宝箱（中间）[/h2]
+[previewimg=44641625;sizeOriginal,floatLeft;20260218140758.jpg][/previewimg]
+[h2] Boss[/h2]
+也是一场苦战
+那防御和精神一看就知道打不动，试了两轮不论谁怎么打都是 1 ，即死也不吃，就回家换人了
+知道探女（我第一秒钟就猜到了谁能上一堆 debuff）有减防，然后又花了二十分钟在各种从来没读过技能的人里面，又找到了秦心和辉夜，不过失败了，只有琪露诺的自爆能给它挂 debuff
+但是！秦心挂的猛毒是有用的！这就有思路了，琪露诺挂 debuff 拖住 boss，然后挂毒
+可以挂猛毒的有莉格露、莲子、秦心（消耗时间长且不稳定）、辉夜（前摇摇完都灭队了）
+还有什么情况能打出伤害呢？钝重+动摇+恐怖三个 debuff 同时存在时，哆来咪一个技能 6000，以及动摇时帕秋莉的日符、复合金符也能打几万伤害，但没有稳定触发的方式
+[h3] 技能分配[/h3]
+[previewimg=44641638;sizeOriginal,floatLeft;20260218193011.jpg][/previewimg]
+[previewimg=44641644;sizeOriginal,floatLeft;20260218193257.jpg][/previewimg]
+截这个是为了证明我真的从来没用过她（笑）
+[previewimg=44641648;sizeOriginal,floatLeft;20260218193032.jpg][/previewimg]
+[previewimg=44641650;sizeOriginal,floatLeft;20260218193242.jpg][/previewimg]
+[previewimg=44641655;sizeOriginal,floatLeft;20260218193054.jpg][/previewimg]
+[previewimg=44641656;sizeOriginal,floatLeft;20260218193223.jpg][/previewimg]
+莲子从狼烟体系换到技能体系
+[previewimg=44641671;sizeOriginal,floatLeft;20260218193654.jpg][/previewimg]
+[previewimg=44641667;sizeOriginal,floatLeft;20260218193757.jpg][/previewimg]
+注：莲子还有一个猛毒技能，但是因为概率和效果不高而且那个蝴蝶不好打没刷
+[previewimg=44641677;sizeOriginal,floatLeft;20260218193152.jpg][/previewimg]
+[previewimg=44641680;sizeOriginal,floatLeft;20260218193207.jpg][/previewimg]
+[h3] 装备分配[/h3]
+[previewimg=44641686;sizeOriginal,floatLeft;20260218192723.jpg][/previewimg]
+[previewimg=44641683;sizeOriginal,floatLeft;20260218192742.jpg][/previewimg]
+琪露诺这一套是为了炸三次，尽可能拖时间，事实证明她做到了
+[previewimg=44641691;sizeOriginal,floatLeft;20260218192940.jpg][/previewimg]
+[previewimg=44641693;sizeOriginal,floatLeft;20260218192950.jpg][/previewimg]
+[h3] 属性分配[/h3]
+[previewimg=44641698;sizeOriginal,floatLeft;20260218193616.jpg][/previewimg]
+[h3] 砸钱[/h3]
+[previewimg=44641700;sizeOriginal,floatLeft;20260218193915.jpg][/previewimg]
+[previewimg=44641703;sizeOriginal,floatLeft;20260218193948.jpg][/previewimg]
+[previewimg=44641704;sizeOriginal,floatLeft;20260218194002.jpg][/previewimg]
+[previewimg=44641705;sizeOriginal,floatLeft;20260218194012.jpg][/previewimg]
+
+令人很羞愧的一点是这次两个主力几乎都没有作用，不过鉴于帕秋莉是在莉格露被抓暴毙之后一击打出了最后四万伤害（虽然我没搞清楚是怎么打出来的，当时似乎全抗80%+，魔法是不是顺带叠了70%+？），还是值得表扬的

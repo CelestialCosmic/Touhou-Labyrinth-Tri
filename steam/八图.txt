@@ -1,0 +1,122 @@
+[h1] 第一层[/h1]
+[h2] 隐藏宝箱（左）[/h2]
+[previewimg=44641319;sizeOriginal,floatLeft;20260215120219.jpg][/previewimg]
+[previewimg=44582791;sizeOriginal,floatLeft;20260215120434.jpg][/previewimg]
+[previewimg=44582794;sizeOriginal,floatLeft;20260215120518.jpg][/previewimg]
+三个都是调箱，先上下后右
+[previewimg=44582795;sizeOriginal,floatLeft;20260215120654.jpg][/previewimg]
+第四个先从最左边出发下来，箱子填住了就水到渠成了
+[h2] 隐藏宝箱（下）[/h2]
+其一
+[previewimg=44581635;sizeOriginal,floatLeft;20260215022906.jpg][/previewimg]
+调箱，然后向右下行动
+其二
+[previewimg=44581636;sizeOriginal,floatLeft;20260215023203.jpg][/previewimg]
+也是调箱，然后顺着走就行
+[h2] 隐藏宝箱（右上）[/h2]
+[previewimg=44582797;sizeOriginal,floatLeft;20260215122721.jpg][/previewimg]
+在下面转一圈向上出发
+[h2] 隐藏宝箱（左下）[/h2]
+[previewimg=44582798;sizeOriginal,floatLeft;20260215123227.jpg][/previewimg]
+调好箱以后出发
+[previewimg=44582799;sizeOriginal,floatLeft;20260215123305.jpg][/previewimg]
+[h2] 隐藏宝箱（右下）[/h2]
+从最下方调来的箱子加本地两个箱子
+[previewimg=44582800;sizeOriginal,floatLeft;20260215123632.jpg][/previewimg]
+运下来
+[previewimg=44582803;sizeOriginal,floatLeft;20260215123729.jpg][/previewimg]
+再过去就行了
+[h2] Boss [/h2]
+没有什么特点，开局队伍不要上主力，换文 + 帕秋莉灌伤就行
+
+[h1] 第二层[/h1]
+[h2] 隐藏宝箱（左上）[/h2]
+[previewimg=44641348;sizeOriginal,floatLeft;20260216043915.jpg][/previewimg]
+[h2] 隐藏宝箱（下）[/h2]
+暂未找到解法
+[h2] Boss [/h2]
+就一个要点：别死！（其实挺难的）
+琪露诺和灵梦的技能都可以规避致死后的高伤害 AOE，好好利用
+紫和文给帕秋莉回合，然后灌伤
+[h1] 第三层 [/h1]
+[h2] 关于宝箱 [/h2]
+其实肯下心思解是都能解出来的，这图要么没有隐藏宝箱要么全是隐藏宝箱
+下图是上半部分（包括如何进入 Boss 场地）
+[previewimg=44641374;sizeOriginal,floatLeft;20260216030150.jpg][/previewimg]
+下半部分
+[previewimg=44641387;sizeOriginal,floatLeft;20260216023633.jpg][/previewimg]
+[h2] Boss[/h2]
+如何入场参考第一张图
+打 Boss 也一样，拐帕秋莉回合灌伤害，因为限伤的存在，哆来咪直接用 mp 消耗最少、发动后初动最高的梦符
+这 Boss 怕帕秋莉和哆来咪死太快还有贴心的过阶段回血呢，开局记得送掉琪露诺降敏捷，没有其他要注意的地方
+[h1] 第四层[/h1]
+[h2] 隐藏宝箱（中）[/h2]
+[previewimg=44641388;sizeOriginal,floatLeft;20260216033708.jpg][/previewimg]
+[h2] 隐藏宝箱（右）[/h2]
+从图中标记位置入场
+[previewimg=44641389;sizeOriginal,floatLeft;20260216030447.jpg][/previewimg]
+[h2] 红宝石[/h2]
+推箱子，黄色标记是转弯的位置
+[previewimg=44641396;sizeOriginal,floatLeft;20260216022016.jpg][/previewimg]
+[h2] 蓝宝石[/h2]
+也要推箱子，标记是转弯的位置
+[previewimg=44641397;sizeOriginal,floatLeft;20260216033338.jpg][/previewimg]
+[h2] Boss[/h2]
+一场苦战，我为此刷了四十余万的钱，调整了所有装备和技能，还搞了一大波强化
+一阶段文拐帕秋莉炸，哆来咪减少输出保存实力，文大概率在一阶段会被 AOE 死
+二阶段的重点是保护哆来咪，因为蓝是肯定一直不够用的，哆来咪也不能撑太久，此外二阶段风属性技能灵梦和紫都是有的
+如果哆来咪在死之前输出打不够的话就可以重开了
+[h3] 配队[/h3]
+[previewimg=44641398;sizeOriginal,floatLeft;20260216193733.jpg][/previewimg]
+可以打输出的是哆来咪、帕秋莉、紫、灵梦（输出能力依次下降）
+辅助是琪露诺、美铃、梅莉和莲子（辅助能力依次下降）
+其他人都是凑数或者被秒的
+紫的技能偏笨重，这里其实不适合上
+[h3] 技能分配[/h3]
+这次的配装把续航全下了，毫无感情的输出机器
+[previewimg=44641400;sizeOriginal,floatLeft;20260216194136.jpg][/previewimg]
+[previewimg=44641401;sizeOriginal,floatLeft;20260216194148.jpg][/previewimg]
+[previewimg=44641403;sizeOriginal,floatLeft;20260216194209.jpg][/previewimg]
+[previewimg=44641407;sizeOriginal,floatLeft;20260216194220.jpg][/previewimg]
+帕秋莉技能调整之后反而输出下降了，因为她抗性高
+[previewimg=44641412;sizeOriginal,floatLeft;20260216194306.jpg][/previewimg]
+[previewimg=44641414;sizeOriginal,floatLeft;20260216194316.jpg][/previewimg]
+[previewimg=44641415;sizeOriginal,floatLeft;20260216194339.jpg][/previewimg]
+[previewimg=44641417;sizeOriginal,floatLeft;20260216194350.jpg][/previewimg]
+[previewimg=44641418;sizeOriginal,floatLeft;20260216194427.jpg][/previewimg]
+[previewimg=44641419;sizeOriginal,floatLeft;20260216194442.jpg][/previewimg]
+[previewimg=44641424;sizeOriginal,floatLeft;20260216194506.jpg][/previewimg]
+[previewimg=44641425;sizeOriginal,floatLeft;20260216194517.jpg][/previewimg]
+[previewimg=44641430;sizeOriginal,floatLeft;20260216194747.jpg][/previewimg]
+[previewimg=44641431;sizeOriginal,floatLeft;20260216194759.jpg][/previewimg]
+[previewimg=44641426;sizeOriginal,floatLeft;20260216194615.jpg][/previewimg]
+[previewimg=44641427;sizeOriginal,floatLeft;20260216194626.jpg][/previewimg]
+[previewimg=44641428;sizeOriginal,floatLeft;20260216194643.jpg][/previewimg]
+[previewimg=44641429;sizeOriginal,floatLeft;20260216194707.jpg][/previewimg]
+[previewimg=44641447;sizeOriginal,floatLeft;20260216195228.jpg][/previewimg]
+[h3] 装备分配[/h3]
+[previewimg=44641432;sizeOriginal,floatLeft;20260216194843.jpg][/previewimg]
+[previewimg=44641433;sizeOriginal,floatLeft;20260216194854.jpg][/previewimg]
+[previewimg=44641439;sizeOriginal,floatLeft;20260216195014.jpg][/previewimg]
+[previewimg=44641434;sizeOriginal,floatLeft;20260216194915.jpg][/previewimg]
+[previewimg=44641435;sizeOriginal,floatLeft;20260216194930.jpg][/previewimg]
+[previewimg=44641438;sizeOriginal,floatLeft;20260216194951.jpg][/previewimg]
+[previewimg=44641440;sizeOriginal,floatLeft;20260216195122.jpg][/previewimg]
+[previewimg=44641445;sizeOriginal,floatLeft;20260216195136.jpg][/previewimg]
+[previewimg=44641446;sizeOriginal,floatLeft;20260216195148.jpg][/previewimg]
+[h3] 属性分配[/h3]
+[previewimg=44641448;sizeOriginal,floatLeft;20260216195401.jpg][/previewimg]
+[previewimg=44641464;sizeOriginal,floatLeft;20260216210438.jpg][/previewimg]
+帕秋莉、哆来咪除了不重要的属性都可以当全十看待
+[h3] 砸钱[/h3]
+[previewimg=44641449;sizeOriginal,floatLeft;20260216195623.jpg][/previewimg]
+[previewimg=44641452;sizeOriginal,floatLeft;20260216195636.jpg][/previewimg]
+帕秋莉重置过等级，想确保更多的输出，结果不如哆来咪
+[previewimg=44641454;sizeOriginal,floatLeft;20260216200203.jpg][/previewimg]
+[previewimg=44641455;sizeOriginal,floatLeft;20260216200215.jpg][/previewimg]
+紫的输出也低于预期，但鉴于她和灵梦打了最后十万，只能说钱没投错
+下面几个辅助没咋砸钱，因为确实不必要
+[previewimg=44641456;sizeOriginal,floatLeft;20260216200708.jpg][/previewimg]
+[previewimg=44641457;sizeOriginal,floatLeft;20260216200724.jpg][/previewimg]
+[previewimg=44641459;sizeOriginal,floatLeft;20260216200858.jpg][/previewimg]
+[previewimg=44641462;sizeOriginal,floatLeft;20260216200908.jpg][/previewimg]
